@@ -119,7 +119,7 @@ Instructions:
       <kbd><img src="./images/schemaclass1.png"  /></kdb>
        
       
-7. Click on the "+ Add" button to the right of "Mixins" in the left panel.
+7. Click on the "+ Add" button to the right of "Field Groups" in the left panel.
 
 
     <!---
